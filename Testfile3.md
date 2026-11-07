@@ -4,12 +4,12 @@
 
 *City:* Mumbai
 
-## About me
+## About me already writtern
 
-Write 2 or 3 short sentences about yourself.
+Write  3 short sentences about yourself.
 
 ## What I want to learn
-
+add one line here
 - One thing
 - Another thing
 
